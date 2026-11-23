@@ -9,7 +9,7 @@ A PHP library to work with immutable univariate polynomials with float coefficie
 
 ## Documentation
 
-The full documentation is at https://phpmath.github.io/polynomial/. Every release is described on the [releases page](https://github.com/phpmath/polynomial/releases).
+The full documentation is at https://phpmath.github.io/polynomial/. Every change is listed in the [changelog](CHANGELOG.md) and every release on the [releases page](https://github.com/phpmath/polynomial/releases).
 
 ## Install
 
